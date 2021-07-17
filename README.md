@@ -4,7 +4,6 @@ Projeto realizado utilizando as tecnologias: Java, OpenCv e JavaFX.
 
 Esse projeto foi criado se baseando completamente no seguinte artigo: [Aplicação de algoritmos de Visão Computacional na contagem de gado por meio de processamento de imagens aéreas](https://revistas.setrem.com.br/index.php/reabtic/article/view/343)
 
----
 
 ## 🛠 TÉCNICAS UTILIZADAS
 
@@ -28,7 +27,6 @@ Serve para isolar os itens e binarizar a imagem, fazendo com que seja possível 
 
 Após aplicação dos operadores morfológicos, o resultado foi uma imagem binária que possui grupos de objetos binários denominados Blobs. Esse algoritmo faz a contagem desses grupos.
 
----
 
 ## 📈 RESULTADOS OBTIDOS
 
@@ -60,7 +58,6 @@ Nas imagens abaixo podemos ver o resultado obtido após a aplicação dos fi
 
 ![images/teste-03.jpg](images/teste-03.jpg)
 
----
 
 ## Conclusão
 
