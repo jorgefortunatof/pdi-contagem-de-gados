@@ -13,7 +13,7 @@ A utilização da escala de cinza tem como principal motivo o refinamento da ima
 
 ### 2. **Suavização**:
 
-Assim como o filtro da escala de cinza, a suavização também tem como objetivo a remoção de ruídos, assim tendo um resultado melhor durante a apliocação da limiariazação. Nesse caso foi utilizado o filtro Gaussiano que se baseia na distribuição estatística dos valores que se agrupam em torno da média conhecida como distribuição Gaussiana. Possui um efeito visual que gera um desfoque na imagem. 
+Assim como o filtro da escala de cinza, a suavização também tem como objetivo a remoção de ruídos, assim tendo um resultado melhor durante a aplicação da limiariazação. Nesse caso foi utilizado o filtro Gaussiano que se baseia na distribuição estatística dos valores que se agrupam em torno da média conhecida como distribuição Gaussiana. Possui um efeito visual que gera um desfoque na imagem. 
 
 ### 3. **Limiarização**
 
